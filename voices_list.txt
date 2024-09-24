@@ -1,0 +1,5 @@
+Name: en-US-GuyNeural
+Gender: Male
+
+Name: en-US-AvaNeural
+Gender: Female
